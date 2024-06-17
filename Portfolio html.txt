@@ -1,0 +1,153 @@
+<html>
+    <head>
+    <link rel="stylesheet" href="Portfolio.css">
+    </head>
+    <body>
+    <div class="main">
+      <div class="top">
+             <div class="logo">
+                <img src="https://img.freepik.com/premium-vector/portfolio-creative-text-banner-with-black-background-illustration_755074-98.jpg?size=626&ext=jpg&ga=GA1.2.531140102.1689916694&semt=ais" class="tar" height="100px">
+             </div>  
+             <div class="menu">
+              <button  class="but1">Home</button>
+              <button  class="but2">About Me</button>
+              <button  class="but3">Skills</button>
+              <button  class="but4">Education</button>
+              <button  class="but5">Certificates</button>
+              <button  class="but6">Social media</button>
+             </div>
+      </div>
+        <div class="both">
+                <div class="com">
+          <div class="matter">
+                    <h2 style="color:white;">Hello...I Am<br> AVU VIDYADHARANI</h2>
+                    <h3 style="color:white">WEB DEVELOPER</h3>
+                      <div class="sub"> 
+                        <img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" height="30px">
+                        <img src="https://cdn-icons-png.flaticon.com/128/4494/4494475.png" height="30px">
+                        <img src="https://cdn-icons-png.flaticon.com/128/4782/4782335.png" height="30px">
+                        <img src="https://cdn-icons-png.flaticon.com/128/3670/3670051.png" height="30px">
+                      </div>
+                </div>
+                <div class="pro">
+                  <img src="C:\Users\Admin\Downloads\IMG-20240614-77.jpg" height="400px" width="500px">
+                </div>
+                </div>
+                
+            
+             <div class="img">
+               <img src="e:\Bhanu Prasad\photo.jpg" alt="Avatar" class="avatar" height="400px" width="600px" >
+            </div>
+        </div>  
+
+    <div class="both1"> 
+        
+         <div class="img1">
+           <img src="C:\Users\Admin\Downloads\IMG-20240614-WA000090.jpg" alt="Avatar1" class="avatar1" >
+        </div>
+
+        <div class="matter1">
+            <br>
+            <div class="me"><marquee scrollamount="10s"><h1 style="color: black;">***About Me***</h1></marquee></div>
+            <div class="cap"> 
+            <h3 style="color:blue">I am Avu Vidyadharani from Vizianagaram District and Present I am studying B.Tech 3rd year in AI&DS at SITAM college,Vizianagaram.</h3></div>
+              </div>
+        </div>
+    </div>  
+
+    <div class="skills">
+      <div class="sk"><h1 style="color: yellow; margin-left:439px;">***SKILLS***</h1>
+      </div>
+      <div class="two">
+
+                <div class="c">
+                          <h1 style="color: yellow;">C Programming</h1>
+                </div>
+        <br><br><br>
+                <div class="p">
+                           <h1 style="color: yellow;">Python Programming</h1>
+                 </div>
+        <br><br><br>
+                  <div class="j">
+                             <h1 style="color: yellow;">Java Programming</h1>
+                  </div>
+      </div>
+       
+      <div class="two">
+
+        <div class="h">
+                  <h1 style="color: yellow;">HTML</h1>
+        </div>
+         <br><br><br>
+            <div class="cs">
+                   <h1 style="color: yellow;">CSS</h1>
+             </div>
+      </div>
+  </div>
+
+
+  <div class="edu">
+    <div class="details">
+    <h1 style="color: white; margin-left:340px;">***Education Details***</h1>
+    </div>
+     <div class="com">
+          
+            <div class="tenth">
+              <h1 style="margin-left:80px;">***10th Class***</h1>
+              <h2 style="color: yellow;">School Name: NARAYANA E-TECHNO SCHOOL</h2>
+              <h2 style="color: white;">place: BOBBILI</h2>
+              <h2 style="color: indigo;">GPA: 10</h2>
+            </div>
+
+            <div class="inter">
+              <h1 style="margin-left:110px;">***Intermediate***</h1>
+              <h2 style="color: indigo;">College Name: NARAYANA  COLLEGE </h2>
+              <h2>place: BOYAPALEM</h2>
+              <h2 style="color: indigo;">Score: 932</h2>
+            </div>
+      </div>
+     
+    
+      <div class="eng">
+       <h1 style="margin-left:200px;">***B.Tech***</h1>
+        
+        <div class="text">
+        <h2 style="color: blue;">College Name: SITAM</h2>
+        <h2 style="color: green;">place: Vizianagaram</h2>
+        <h2 style="color:black;">Percentage: 70 </h2>
+        </div>
+        
+      </div>
+
+  </div>
+    
+
+  <div class="cert">
+   <div class="cr"> <h1 style="margin-left:420px;">****Certificates****</h1></div>
+   <div class="more">
+         <div class="great">
+             <h1 style="color: black; margin-left:90px;">Business English</h1>
+           <div class="gr"><img src="E:\Internship\IGNITE\IMG_20240614_122623.jpg" height="200px" width="400px"></div>
+          </div>
+
+        <div class="cogni">
+          <h1 style="color: yellow; margin-left:90px;">Grammar and Punctuation</h1>
+          <div class="cog"><img src="E:\Internship\IGNITE\IMG_20240614_122637.jpg" height="200px" width="400px" margin-right="20px"></div>
+        </div>
+  </div>
+ 
+</div>
+</div>
+
+</div>
+<div class="social">
+ <marquee scrollamount="18s" direction="right"><h1 style="color:white">***Social Media links***</h1></marquee>
+ <div class="lin">
+  <a href="https://www.linkedin.com/in/bhanu-prasad-bathula-a35b96245"> <img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" height="50px" width="50px"></a>
+  <a href="https://instagram.com/bhanuprasad0001?utm_source=qr&igshid=MzNINGNKZWQ4Mg%3D%3"> <img src="https://cdn-icons-png.flaticon.com/128/4782/4782335.png" height="50px" width="50px"></a>
+  <a href="https://www.facebook.com/"><img src="https://cdn-icons-png.flaticon.com/128/4494/4494479.png" height="50px" width="50px"> </a>
+  <a href="https://x.com/?lang=en-in"><img src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" height="50px" width="50px"> </a>
+
+</div>>
+    </body>
+</html>

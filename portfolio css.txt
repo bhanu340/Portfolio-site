@@ -1,0 +1,363 @@
+
+.matter{
+    margin-left: 130px;
+    color:green;
+    background-color: rgba(251, 238, 251, 0.258);
+    width: 400px;
+    height: 200px;
+    padding: 20px;
+    justify-content: center;
+    margin-top: 60px;
+}
+.com{
+  display: flex;
+}
+.pro{
+  margin-top: 0px;
+  margin-left: 50px;
+ 
+}
+.pro img{
+  border-radius: 50%;
+}
+.img1{
+  border-radius: 50%;
+}
+.sub{
+    margin-left: 35px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+body{
+    background-color: white;
+    background-image: url("https://img.freepik.com/free-vector/halftone-background-with-circles_23-2148907689.jpg?size=626&ext=jpg&ga=GA1.1.531140102.1689916694&semt=ais_user");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+}
+.avatar {
+    vertical-align: middle;
+   margin-top: 20px;
+   margin-bottom: 20px;
+    border-radius: 70%;
+    height: 500px;
+    margin-left: 200px;
+  }
+  .both{
+    display: flex;
+    background-image: url("https://img.freepik.com/free-vector/halftone-background-with-circles_23-2148907689.jpg?size=626&ext=jpg&ga=GA1.1.531140102.1689916694&semt=ais_user");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: rgba(238, 130, 238, 0.529);
+    width: 1450px;
+  }
+  .about{
+    background-color: yellow;
+    margin-left: 0px;
+    color:green;
+    width: 290px;
+    height: 200px;
+    padding: 50px;
+}
+
+
+.me{
+    margin-left: 0px;
+}
+.cap{
+    margin-left: 10px;
+}
+.matter1{
+    margin-left: 90px;
+    color:green;
+    background-color: #fcdb03e5;
+    width: 400px;
+    height: 300px;
+    padding: 10px;
+    justify-content: center;
+    margin-top: 110px;
+    margin-right: 130px;
+    border-radius: 20px;
+    border:2px solid rgb(18, 19, 18)
+}
+.sub1{
+    margin-left: 35px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.avatar1 {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    vertical-align: middle;
+    width: 490px;
+    height: 540px;
+  border-radius: 40px;
+    margin-left: 50px;
+  }
+  .both1{
+    display: flex;
+    background-color: white;
+    background-image: url("https://img.freepik.com/free-vector/halftone-background-with-circles_23-2148907689.jpg?size=626&ext=jpg&ga=GA1.1.531140102.1689916694&semt=ais_user");
+    width: 1450px;
+    margin-top: 20px;
+  }
+  .skills{
+    margin-top: 20px;
+    height: 400px;
+    background-color: none;
+  }
+  .c{
+    height: 90px;
+    padding: 20px;
+    width: 360px;
+    margin-left: 50px;
+    background-color:red;
+    border-radius:20px ;
+  }
+  .p{
+    height: 90px;
+    padding: 20px;
+    width: 360px;
+    margin-left: 80px;
+    border-radius:20px ;
+    background-color:rgb(32, 8, 78);
+  }
+  .j{
+    height: 90px;
+    padding: 20px;
+    width: 360px;
+    margin-left: 80px;
+    border-radius:20px ;
+    background-color:rgb(97, 93, 103);
+  }
+  .h{
+    height: 90px;
+    padding: 20px;
+    width: 360px;
+    margin-left: 50px;
+    background-color:rgb(39, 15, 15);
+    border-radius:20px ;
+  }
+  .cs{
+    height: 90px;
+    padding: 20px;
+    width: 360px;
+    margin-left: 80px;
+    border-radius:20px ;
+    background-color:rgb(142, 4, 52);
+  }
+  
+  .two{
+    display: flex;
+    margin-top: 20px;
+  }
+  .sk{
+    margin-left: 0px;
+    margin-top: 20px;
+  }
+  .tenth{
+    background-color: violet;
+    width:600px;
+    padding: 20px;
+    margin-left: 50px;
+    height: 230px;
+    border-radius: 20px;
+  }
+  .inter{
+    margin-top: 2px;
+    margin-left: 100px;
+    background-color: white;
+    width:600px;
+    padding: 20px;
+    height: 230px;
+    border-radius: 20px;
+  }
+  .com{
+    display: flex;
+  }
+  .eng{
+    margin-top: 30px;
+    margin-left: 220px;
+    background-color: yellow;
+    width:600px;
+    padding: 20px;
+    height: 230px;
+    border-radius: 20px;
+  }
+  .text{
+    margin-left: 140px;
+  }
+  .details{
+    margin-left: 60px;
+    margin-right: 60px;
+  }
+  .edu{
+    margin-top: 20px;
+    background-color: none;
+    height: 680px;
+  }
+  .cert{
+    background-color: none;
+    margin-top: 20px;
+  }
+  .more{
+    background-color:none;
+    display: flex;
+    height: 400px;
+    margin-top: 20px;
+  }
+  .great{
+    background-color: violet;
+    width:600px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 50px;
+    height: 290px;
+    border-radius: 20px;
+  }
+  .cogni{
+    margin-top: 20px;
+    margin-left: 100px;
+    background-color: rgb(69, 89, 224);
+    width:600px;
+    padding: 20px;
+    height: 290px;
+    border-radius: 20px;
+  }
+  .gr{
+    margin-left: 40px;
+  }
+  .grt{
+    margin-left: 120px;
+  }
+  .cog{
+    margin-left: 80px;
+  }
+  .cr{
+
+    color: white;
+  }
+  .g{
+    border-radius: 10px;
+    background-color: red;
+    display: flex;
+    height: 400px;
+    margin-top: 10px;
+    margin-left: 200px;
+  }
+  .gre{
+    background-color: rgb(14, 7, 14);
+    width:650px;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 50px;
+    height: 290px;
+    border-radius: 20px;
+  }
+  .lm{
+    margin-top: 20px;
+    margin-left: 100px;
+    background-color: rgb(198, 255, 11);
+    width:600px;
+    padding: 20px;
+    height: 290px;
+    border-radius: 20px;
+  }
+  .social{
+    margin-top: 20px;
+   
+    height: 200px;
+  }
+  .lin{
+    margin-left: 450px;
+  }
+  .logo{
+    border-radius: 50%;
+  }
+  .tar{
+    vertical-align: middle;
+    width: 200px;
+    height: 140px;
+  border-radius: 50%;
+    margin-left: 0px;
+  }
+ .top{
+  display: flex;
+ }
+  .menu{
+    margin-left: 300px;
+    margin-top: 40px;
+  }
+  .but1{
+    color: black;
+    cursor: pointer;
+    background-color: rgb(234, 234, 38);
+    height: 30px;
+    width: 90px;
+    border-radius: 30px;
+  }
+  .but1:hover{
+    background-color: blue;
+    color: white;
+  }
+  .but2{
+    color: green;
+    cursor: pointer;
+    background-color: yellow;
+    height: 30px;
+    width: 90px;
+    border-radius: 30px;
+  }
+  .but2:hover{
+    background-color: rgb(172, 206, 18);
+    color: white;
+  }
+  .but3{
+    color: green;
+    cursor: pointer;
+    background-color: rgb(166, 166, 97);
+    height: 30px;
+    width: 90px;
+    border-radius: 30px;
+  }
+  .but3:hover{
+    background-color: rgb(171, 41, 134);
+    color: white;
+  }
+  .but4{
+    color: black;
+    cursor: pointer;
+    background-color: rgb(121, 121, 19);
+    height: 30px;
+    width: 90px;
+    border-radius: 30px;
+  }
+  .but4:hover{
+    background-color: rgb(3, 3, 3);
+    color: white;
+  }
+  .but5{
+    color: green;
+    cursor: pointer;
+    background-color: yellow;
+    height: 30px;
+    width: 90px;
+    border-radius: 30px;
+  }
+  .but5:hover{
+    background-color: rgb(69, 190, 17);
+    color: white;
+  }
+  .but6{
+    color: green;
+    cursor: pointer;
+    background-color: yellow;
+    height: 30px;
+    width: 110px;
+    border-radius: 30px;
+  }
+  .but6:hover{
+    background-color: blue;
+    color: white;
+  }
